@@ -8,3 +8,5 @@ class solution:
             for j in range(i,n):
                 sum += A[j]
                 if sum == 0:
+
+
