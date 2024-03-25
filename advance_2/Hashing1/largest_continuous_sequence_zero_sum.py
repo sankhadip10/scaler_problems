@@ -9,7 +9,3 @@ class solution:
                 sum += A[j]
                 if sum == 0:
 
-
-
-
-
