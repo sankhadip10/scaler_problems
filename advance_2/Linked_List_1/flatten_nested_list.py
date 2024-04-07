@@ -26,6 +26,8 @@ class NestedIterator:
             self.stack.append(nestedList[i])
 
 
+
+
     def next(self):
         # Ensure the stack is not empty
         if self.hasNext():
